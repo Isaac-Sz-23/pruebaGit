@@ -74,4 +74,32 @@ body {
         height: auto;
         margin-bottom: 10px;
     }
+    #cabecera {
+        background-color: #007BFF;
+        color: #fff;
+        padding: 20px;
+        font-size: 24px;
+        font-weight: bold;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+        margin-bottom: 20px;
+        text-align: center;
+        border-radius: 5px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        margin-bottom: 20px;
+    }
+    
+    #cabecera h1 {
+        font-size: 36px;
+        margin-bottom: 10px;
+    }
+    
+    #post {
+        background-color: #fff;
+        padding: 20px;
+        margin-bottom: 20px;
+        border-radius: 5px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
 }
