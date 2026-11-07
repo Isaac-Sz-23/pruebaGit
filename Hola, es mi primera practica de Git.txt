@@ -1,2 +1,2 @@
-Hola, es mi primera practica de Git
+Hola, es mi primera practica de Git en Lab
 Ya estoy aprendiendo
